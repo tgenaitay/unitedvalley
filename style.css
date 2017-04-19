@@ -6,7 +6,7 @@
 body{
   background: #FFFFFF;
   color: #2E2E2E;
-  font-size: 15px;
+  font-size: 20px;
   font-family: 'Source Sans Pro', sans-serif;
   margin: 0 auto;
   width:800px;
@@ -14,17 +14,17 @@ body{
 h1{
   color: #FFFFFF;
   font-weight: bolder;
-  font-size: 25px;
+  font-size: 35px;
 }
 h2 {
   color: #D42C14;
   font-weight: bolder;
-  font-size: 20px;
+  font-size: 30px;
 }
 h3 {
   color: #545155;
   font-weight: bolder;
-  font-size: 15px;
+  font-size: 25px;
 }
 a {
   color: black;
@@ -57,7 +57,7 @@ a:hover {
 }
 
 #header p {
-  font-size: 25px;
+  font-size: 35px;
   font-weight: bolder;
 }
 
@@ -96,7 +96,7 @@ a:hover {
 }
 
 .container i {
-  font-size:70px;
+  font-size:90px;
 }
 
 .card{
