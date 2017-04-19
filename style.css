@@ -6,7 +6,7 @@
 body{
   background: #FFFFFF;
   color: #2E2E2E;
-  font-size: 25px;
+  font-size: 28px;
   font-family: 'Source Sans Pro', sans-serif;
   margin: 0 auto;
 }
@@ -99,10 +99,13 @@ a:hover {
 }
 
 .card{
-  font-weight: lighter;
   text-align:center;
   width:80%;
   margin: 40px auto;
+}
+
+.card p {
+  font-weight: lighter;
 }
 
 .card img {
